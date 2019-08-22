@@ -1,5 +1,3 @@
-// Imports
-const hat            = require("hat");
 
 // Routes holder
 var Routes = {};
@@ -28,6 +26,6 @@ Routes.files = {
             index: true,
         }
     }
-});
+};
 
 module.exports = Routes;
