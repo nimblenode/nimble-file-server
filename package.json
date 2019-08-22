@@ -1,0 +1,27 @@
+{
+  "name": "nimble-file-server",
+  "version": "1.0.0",
+  "description": "Nimble file server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimblenode/nimble-file-server.git"
+  },
+  "keywords": [
+    "nimble",
+    "relay"
+  ],
+  "author": "Dondrey Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimblenode/nimble-file-server/issues"
+  },
+  "homepage": "https://github.com/nimblenode/nimble-file-server#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.2",
+  }
+}
