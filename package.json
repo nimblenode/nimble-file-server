@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/nimblenode/nimble-file-server#readme",
   "dependencies": {
-    "@hapi/hapi": "^18.3.2",
-    "@hapi/inert": "^5.2.1"
+    "parseurl": "^1.3.3",
+    "send": "^0.17.1"
   }
 }
